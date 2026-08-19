@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T16:53:31Z",
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2134
+            "stars": 2136
           }
         },
         {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-08-13T05:07:05Z",
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 346
+                "stars": 347
               }
             },
             {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-06T12:18:07Z",
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2455
+            "stars": 2461
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2305
+            "stars": 2306
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2305
+            "stars": 2306
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-05-28T06:42:56Z",
             "owner": "z2tong",
             "repo": "SCOPE",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1075,7 +1075,7 @@
                 "last_commit": "2026-07-16T21:38:39Z",
                 "owner": "HadiZayer",
                 "repo": "masked-visual-actions",
-                "stars": 96
+                "stars": 97
               }
             }
           ],
@@ -1157,7 +1157,7 @@
                 "last_commit": "2026-07-10T22:54:08Z",
                 "owner": "Jianghanxiao",
                 "repo": "PhysTwin",
-                "stars": 444
+                "stars": 445
               }
             },
             {
@@ -1202,7 +1202,7 @@
                 "last_commit": "2025-06-17T06:40:57Z",
                 "owner": "Little-Podi",
                 "repo": "AdaWorld",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2026-08-10T17:26:32Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7859
+                "stars": 7860
               }
             },
             {
@@ -1838,7 +1838,7 @@
                 "last_commit": "2026-07-20T02:33:21Z",
                 "owner": "InternRobotics",
                 "repo": "InternVLA-A-series",
-                "stars": 538
+                "stars": 539
               }
             },
             {
@@ -1950,7 +1950,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1777
+                "stars": 1776
               }
             },
             {
@@ -2025,7 +2025,7 @@
                 "last_commit": "2026-07-15T02:22:59Z",
                 "owner": "YixiangChen515",
                 "repo": "FlowWAM",
-                "stars": 50
+                "stars": 51
               }
             },
             {
@@ -2187,7 +2187,7 @@
                     "last_commit": "2026-07-09T10:39:39Z",
                     "owner": "Robbyant",
                     "repo": "lingbot-world",
-                    "stars": 4374
+                    "stars": 4375
                   }
                 },
                 {
@@ -2232,7 +2232,7 @@
                     "last_commit": "2026-07-14T14:04:37Z",
                     "owner": "Robbyant",
                     "repo": "lingbot-world-v2",
-                    "stars": 1530
+                    "stars": 1531
                   }
                 },
                 {
@@ -2289,7 +2289,7 @@
                     "archived": false,
                     "id": 1218835372,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:25:12Z",
+                    "last_commit": "2026-08-19T18:44:42Z",
                     "owner": "NVIDIA",
                     "repo": "flashdreams",
                     "stars": 458
@@ -2307,7 +2307,7 @@
                     "last_commit": "2026-08-15T10:27:56Z",
                     "owner": "AlayaLab",
                     "repo": "Evoke",
-                    "stars": 144
+                    "stars": 147
                   }
                 }
               ],
@@ -2401,7 +2401,7 @@
                 "last_commit": "2025-09-12T03:31:30Z",
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3482
+                "stars": 3483
               }
             },
             {
@@ -2670,7 +2670,7 @@
                 "last_commit": "2024-10-19T03:27:38Z",
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7426
+                "stars": 7425
               }
             },
             {
@@ -2685,7 +2685,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 957
+                "stars": 959
               }
             },
             {
@@ -2872,7 +2872,7 @@
                 "last_commit": "2026-07-17T22:33:32Z",
                 "owner": "facebookresearch",
                 "repo": "eb_jepa",
-                "stars": 756
+                "stars": 757
               }
             },
             {
@@ -2976,7 +2976,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3685
+                "stars": 3684
               }
             },
             {
@@ -3338,7 +3338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:00.314Z",
+    "last_updated": "2026-08-19T18:50:50.871Z",
     "original_repository": "knightnemo/Awesome-World-Models",
     "original_repository_id": 1087207313,
     "original_repository_sha": "418efcfb07a49f1b6e32fd7e6caeda50a21ba3e0",
