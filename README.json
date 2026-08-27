@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T15:11:30Z",
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2156
+            "stars": 2159
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-15T12:02:50Z",
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 800
+            "stars": 801
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-15T23:17:13Z",
             "owner": "simchowitzlabpublic",
             "repo": "nano-world-model",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-05-16T13:21:22Z",
                 "owner": "NTUMARS",
                 "repo": "Awesome-World-Model-for-Robotics-Policy",
-                "stars": 764
+                "stars": 766
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2025-10-03T19:47:20Z",
                 "owner": "NJU3DV-LoongGroup",
                 "repo": "Embodied-World-Models-Survey",
-                "stars": 260
+                "stars": 262
               }
             }
           ],
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-21T12:25:45Z",
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2466
+            "stars": 2464
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2314
+            "stars": 2316
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2314
+            "stars": 2316
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2024-12-06T16:45:28Z",
             "owner": "eloialonso",
             "repo": "diamond",
-            "stars": 2096
+            "stars": 2097
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-08-03T10:29:39Z",
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 511
+            "stars": 515
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-04-15T17:27:25Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanWorld-1.0",
-            "stars": 2918
+            "stars": 2919
           }
         }
       ],
@@ -436,7 +436,7 @@
             "last_commit": "2026-07-24T09:11:39Z",
             "owner": "nv-tlabs",
             "repo": "omni-dreams",
-            "stars": 320
+            "stars": 322
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2024-11-29T09:45:52Z",
             "owner": "JeffWang987",
             "repo": "DriveDreamer",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2025-05-27T02:51:19Z",
             "owner": "wzzheng",
             "repo": "GenAD",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2024-05-31T01:57:02Z",
             "owner": "wzzheng",
             "repo": "OccSora",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -1231,7 +1231,7 @@
                 "last_commit": "2024-07-18T05:31:52Z",
                 "owner": "jannerm",
                 "repo": "diffuser",
-                "stars": 1304
+                "stars": 1303
               }
             },
             {
@@ -1261,7 +1261,7 @@
                 "last_commit": "2026-08-24T06:34:02Z",
                 "owner": "ginwind",
                 "repo": "VLA-JEPA",
-                "stars": 549
+                "stars": 550
               }
             },
             {
@@ -1276,7 +1276,7 @@
                 "last_commit": "2026-08-24T22:23:29Z",
                 "owner": "Jianghanxiao",
                 "repo": "PhysTwin",
-                "stars": 448
+                "stars": 449
               }
             },
             {
@@ -1351,7 +1351,7 @@
                 "last_commit": "2025-09-06T17:04:56Z",
                 "owner": "devinluo27",
                 "repo": "potential-motion-plan-release",
-                "stars": 152
+                "stars": 151
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2026-07-11T03:36:23Z",
                 "owner": "DAGroup-PKU",
                 "repo": "PhysisForcing",
-                "stars": 121
+                "stars": 122
               }
             },
             {
@@ -1801,7 +1801,7 @@
                 "last_commit": "2026-08-14T03:36:32Z",
                 "owner": "AMAP-ML",
                 "repo": "DreamX-Phi",
-                "stars": 61
+                "stars": 62
               }
             }
           ],
@@ -1972,7 +1972,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7927
+                "stars": 7930
               }
             },
             {
@@ -1987,7 +1987,7 @@
                 "last_commit": "2025-12-02T10:34:06Z",
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1119
+                "stars": 1120
               }
             },
             {
@@ -2002,7 +2002,7 @@
                 "last_commit": "2026-07-20T02:33:21Z",
                 "owner": "InternRobotics",
                 "repo": "InternVLA-A-series",
-                "stars": 539
+                "stars": 542
               }
             },
             {
@@ -2077,7 +2077,7 @@
                 "last_commit": "2026-08-25T19:34:37Z",
                 "owner": "open-gigaai",
                 "repo": "giga-brain-0",
-                "stars": 2611
+                "stars": 2615
               }
             },
             {
@@ -2092,7 +2092,7 @@
                 "last_commit": "2026-04-08T06:13:40Z",
                 "owner": "Robert-gyj",
                 "repo": "Ctrl-World",
-                "stars": 556
+                "stars": 557
               }
             }
           ],
@@ -2114,7 +2114,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1806
+                "stars": 1809
               }
             },
             {
@@ -2144,7 +2144,7 @@
                 "last_commit": "2026-07-22T04:30:18Z",
                 "owner": "amap-cvlab",
                 "repo": "ABot-Manipulation",
-                "stars": 691
+                "stars": 692
               }
             },
             {
@@ -2174,7 +2174,7 @@
                 "last_commit": "2026-05-26T05:04:10Z",
                 "owner": "jiangranlv",
                 "repo": "LDA-1B",
-                "stars": 309
+                "stars": 310
               }
             },
             {
@@ -2189,7 +2189,7 @@
                 "last_commit": "2026-07-15T02:22:59Z",
                 "owner": "YixiangChen515",
                 "repo": "FlowWAM",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -2373,7 +2373,7 @@
                     "last_commit": "2026-08-25T12:46:29Z",
                     "owner": "NVIDIA",
                     "repo": "cosmos",
-                    "stars": 11641
+                    "stars": 11653
                   }
                 },
                 {
@@ -2388,7 +2388,7 @@
                     "last_commit": "2026-03-23T10:13:05Z",
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
-                    "stars": 4526
+                    "stars": 4532
                   }
                 },
                 {
@@ -2403,7 +2403,7 @@
                     "last_commit": "2026-03-23T10:13:05Z",
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
-                    "stars": 4526
+                    "stars": 4532
                   }
                 },
                 {
@@ -2418,7 +2418,7 @@
                     "last_commit": "2026-07-09T10:39:39Z",
                     "owner": "Robbyant",
                     "repo": "lingbot-world",
-                    "stars": 4393
+                    "stars": 4394
                   }
                 },
                 {
@@ -2433,7 +2433,7 @@
                     "last_commit": "2026-04-19T06:40:39Z",
                     "owner": "dreamzero0",
                     "repo": "dreamzero",
-                    "stars": 2593
+                    "stars": 2599
                   }
                 },
                 {
@@ -2463,7 +2463,7 @@
                     "last_commit": "2026-07-14T14:04:37Z",
                     "owner": "Robbyant",
                     "repo": "lingbot-world-v2",
-                    "stars": 1560
+                    "stars": 1563
                   }
                 },
                 {
@@ -2478,7 +2478,7 @@
                     "last_commit": "2026-08-21T10:20:44Z",
                     "owner": "orca-wm",
                     "repo": "Orca",
-                    "stars": 1038
+                    "stars": 1040
                   }
                 },
                 {
@@ -2493,7 +2493,7 @@
                     "last_commit": "2026-08-20T06:30:14Z",
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 843
+                    "stars": 844
                   }
                 },
                 {
@@ -2508,7 +2508,7 @@
                     "last_commit": "2026-07-23T09:44:41Z",
                     "owner": "AMAP-ML",
                     "repo": "DreamX-World",
-                    "stars": 760
+                    "stars": 761
                   }
                 },
                 {
@@ -2520,10 +2520,10 @@
                     "archived": false,
                     "id": 1218835372,
                     "language": "Python",
-                    "last_commit": "2026-08-26T19:54:58Z",
+                    "last_commit": "2026-08-27T08:55:56Z",
                     "owner": "NVIDIA",
                     "repo": "flashdreams",
-                    "stars": 470
+                    "stars": 471
                   }
                 },
                 {
@@ -2538,7 +2538,7 @@
                     "last_commit": "2026-08-15T10:27:56Z",
                     "owner": "AlayaLab",
                     "repo": "Evoke",
-                    "stars": 229
+                    "stars": 233
                   }
                 }
               ],
@@ -2560,7 +2560,7 @@
                     "last_commit": "2026-05-26T17:22:05Z",
                     "owner": "lucas-maes",
                     "repo": "le-wm",
-                    "stars": 4343
+                    "stars": 4349
                   }
                 },
                 {
@@ -2575,7 +2575,7 @@
                     "last_commit": "2025-02-27T23:15:27Z",
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4105
+                    "stars": 4106
                   }
                 },
                 {
@@ -2647,7 +2647,7 @@
                 "last_commit": "2025-09-12T03:31:30Z",
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3488
+                "stars": 3487
               }
             },
             {
@@ -2662,7 +2662,7 @@
                 "last_commit": "2026-08-07T02:35:21Z",
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2563
+                "stars": 2565
               }
             },
             {
@@ -2677,7 +2677,7 @@
                 "last_commit": "2026-08-24T07:26:04Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2076
+                "stars": 2077
               }
             },
             {
@@ -2692,7 +2692,7 @@
                 "last_commit": "2025-11-28T04:06:03Z",
                 "owner": "KlingAIResearch",
                 "repo": "ReCamMaster",
-                "stars": 1855
+                "stars": 1857
               }
             },
             {
@@ -2946,7 +2946,7 @@
                 "last_commit": "2026-07-17T22:51:17Z",
                 "owner": "facebookresearch",
                 "repo": "cwm",
-                "stars": 890
+                "stars": 894
               }
             },
             {
@@ -3125,7 +3125,7 @@
                 "last_commit": "2026-03-23T10:13:05Z",
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
-                "stars": 4526
+                "stars": 4532
               }
             },
             {
@@ -3140,7 +3140,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4105
+                "stars": 4106
               }
             },
             {
@@ -3281,7 +3281,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3704
+                "stars": 3706
               }
             },
             {
@@ -3543,7 +3543,7 @@
                 "last_commit": "2025-09-20T01:26:54Z",
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
-                "stars": 46
+                "stars": 47
               }
             }
           ],
@@ -3565,7 +3565,7 @@
                 "last_commit": "2025-07-25T07:45:55Z",
                 "owner": "runjiali-rl",
                 "repo": "vmem",
-                "stars": 446
+                "stars": 447
               }
             },
             {
@@ -3580,7 +3580,7 @@
                 "last_commit": "2026-08-16T01:49:36Z",
                 "owner": "Echo-Team-Joy-Future-Academy-JD",
                 "repo": "Echo-Memory",
-                "stars": 246
+                "stars": 247
               }
             }
           ],
@@ -3618,7 +3618,7 @@
             "archived": false,
             "id": 1246588489,
             "language": "Python",
-            "last_commit": "2026-08-26T12:53:44Z",
+            "last_commit": "2026-08-27T09:53:39Z",
             "owner": "meituan-longcat",
             "repo": "WBench",
             "stars": 223
@@ -3702,7 +3702,7 @@
             "last_commit": "2026-08-17T08:52:48Z",
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -3714,10 +3714,10 @@
             "archived": false,
             "id": 885743839,
             "language": "Python",
-            "last_commit": "2026-08-26T04:12:48Z",
+            "last_commit": "2026-08-27T06:06:07Z",
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1985
+            "stars": 1988
           }
         },
         {
@@ -3732,7 +3732,7 @@
             "last_commit": "2025-10-03T19:47:20Z",
             "owner": "NJU3DV-LoongGroup",
             "repo": "Embodied-World-Models-Survey",
-            "stars": 260
+            "stars": 262
           }
         }
       ],
@@ -3740,9 +3740,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:59:13.375Z",
-    "original_repository": "knightnemo/Awesome-World-Models",
-    "original_repository_id": 1087207313,
+    "last_updated": "2026-08-27T11:32:10.334Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1087207313,
+      "language": null,
+      "last_commit": "2026-08-25T20:15:17Z",
+      "owner": "knightnemo",
+      "repo": "Awesome-World-Models",
+      "stars": 3354
+    },
     "original_repository_sha": "49e8a135056cec110dd379e844bcaf78b1fa7bc5",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Models",
     "enhanced_repository_description": null,
