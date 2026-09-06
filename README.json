@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2175,
+            "stars": 2177,
             "topics": [
               "deep-learning",
               "jepa",
@@ -67,7 +67,7 @@
             "open_issues": 6,
             "owner": "simchowitzlabpublic",
             "repo": "nano-world-model",
-            "stars": 725,
+            "stars": 728,
             "topics": [
               "diffusion-forcing",
               "diffusion-models",
@@ -251,7 +251,7 @@
                 "open_issues": 1,
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2488,
+            "stars": 2491,
             "topics": [
               "worldmodel"
             ]
@@ -443,7 +443,7 @@
             "open_issues": 8,
             "owner": "eloialonso",
             "repo": "diamond",
-            "stars": 2103,
+            "stars": 2104,
             "topics": [
               "artificial-intelligence",
               "atari",
@@ -473,7 +473,7 @@
             "open_issues": 3,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 532,
+            "stars": 533,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -494,7 +494,7 @@
             "open_issues": 6,
             "owner": "KlingAIResearch",
             "repo": "GameFactory",
-            "stars": 497,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -557,7 +557,7 @@
             "open_issues": 1,
             "owner": "Riemann-Dynamics",
             "repo": "Matrix-Game-3.5",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 4,
                 "owner": "XiaomiRobotics",
                 "repo": "Xiaomi-Robotics-U0",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -1892,7 +1892,7 @@
                 "open_issues": 38,
                 "owner": "OpenDriveLab",
                 "repo": "AgiBot-World",
-                "stars": 3166,
+                "stars": 3167,
                 "topics": [
                   "pretraining-for-robotics",
                   "robotic-foundation-model",
@@ -1918,7 +1918,7 @@
                 "open_issues": 35,
                 "owner": "jannerm",
                 "repo": "diffuser",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -1960,7 +1960,7 @@
                 "open_issues": 23,
                 "owner": "ginwind",
                 "repo": "VLA-JEPA",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -1981,7 +1981,7 @@
                 "open_issues": 1,
                 "owner": "Jianghanxiao",
                 "repo": "PhysTwin",
-                "stars": 454,
+                "stars": 455,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -2269,7 +2269,7 @@
                 "open_issues": 1,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnWorld-4D",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -2858,7 +2858,7 @@
                 "open_issues": 4,
                 "owner": "younggyoseo",
                 "repo": "MWM",
-                "stars": 138,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3006,7 +3006,7 @@
                 "open_issues": 332,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8008,
+                "stars": 8011,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3027,7 +3027,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1127,
+                "stars": 1128,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3180,7 +3180,7 @@
                 "open_issues": 17,
                 "owner": "Robert-gyj",
                 "repo": "Ctrl-World",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3208,7 +3208,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1854,
+                "stars": 1857,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3337,7 +3337,7 @@
                 "open_issues": 0,
                 "owner": "manifoldai-research",
                 "repo": "WorldScape-Policy",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3365,7 +3365,7 @@
                 "open_issues": 35,
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": [
                   "computer-vision",
                   "embodied-ai",
@@ -3396,7 +3396,7 @@
                 "open_issues": 0,
                 "owner": "CMU-IntentLab",
                 "repo": "StressDream",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3478,7 +3478,7 @@
             "open_issues": 1,
             "owner": "LeapLabTHU",
             "repo": "EchoWorld",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3583,7 +3583,7 @@
                     "open_issues": 48,
                     "owner": "NVIDIA",
                     "repo": "cosmos",
-                    "stars": 11738,
+                    "stars": 11743,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3601,7 +3601,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-23T10:13:05Z",
-                    "open_issues": 87,
+                    "open_issues": 88,
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
                     "stars": 4577,
@@ -3622,7 +3622,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-23T10:13:05Z",
-                    "open_issues": 87,
+                    "open_issues": 88,
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
                     "stars": 4577,
@@ -3646,7 +3646,7 @@
                     "open_issues": 42,
                     "owner": "Robbyant",
                     "repo": "lingbot-world",
-                    "stars": 4416,
+                    "stars": 4419,
                     "topics": [
                       "aigc",
                       "image-to-video",
@@ -3673,7 +3673,7 @@
                     "open_issues": 33,
                     "owner": "dreamzero0",
                     "repo": "dreamzero",
-                    "stars": 2628,
+                    "stars": 2630,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3694,7 +3694,7 @@
                     "open_issues": 7,
                     "owner": "jd-opensource",
                     "repo": "JoyAI-Echo",
-                    "stars": 2002,
+                    "stars": 2005,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T20:58:53.749Z"
@@ -3715,7 +3715,7 @@
                     "open_issues": 7,
                     "owner": "jd-opensource",
                     "repo": "JoyAI-Echo",
-                    "stars": 2002,
+                    "stars": 2005,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T20:58:53.749Z"
@@ -3736,7 +3736,7 @@
                     "open_issues": 30,
                     "owner": "Tencent-Hunyuan",
                     "repo": "HY-WorldPlay",
-                    "stars": 1598,
+                    "stars": 1600,
                     "topics": [
                       "3d",
                       "hunyuan",
@@ -3762,10 +3762,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-14T14:04:37Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "Robbyant",
                     "repo": "lingbot-world-v2",
-                    "stars": 1588,
+                    "stars": 1591,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3807,7 +3807,7 @@
                     "open_issues": 4,
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 862,
+                    "stars": 865,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3845,7 +3845,7 @@
                     "id": 1218835372,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T18:12:02Z",
+                    "last_commit": "2026-09-06T19:57:03Z",
                     "open_issues": 103,
                     "owner": "NVIDIA",
                     "repo": "flashdreams",
@@ -3875,7 +3875,7 @@
                     "open_issues": 0,
                     "owner": "AlayaLab",
                     "repo": "Evoke",
-                    "stars": 374,
+                    "stars": 389,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3903,7 +3903,7 @@
                     "open_issues": 43,
                     "owner": "lucas-maes",
                     "repo": "le-wm",
-                    "stars": 4391,
+                    "stars": 4392,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3924,7 +3924,7 @@
                     "open_issues": 64,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4119,
+                    "stars": 4123,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4041,7 +4041,7 @@
                 "open_issues": 18,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2601,
+                "stars": 2602,
                 "topics": [
                   "infra",
                   "long",
@@ -4069,7 +4069,7 @@
                 "open_issues": 42,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2135,
+                "stars": 2136,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -4111,7 +4111,7 @@
                 "open_issues": 72,
                 "owner": "KlingAIResearch",
                 "repo": "ReCamMaster",
-                "stars": 1856,
+                "stars": 1858,
                 "topics": [
                   "4d",
                   "aigc",
@@ -4483,7 +4483,7 @@
                 "open_issues": 4,
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 989,
+                "stars": 992,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4504,7 +4504,7 @@
                 "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "cwm",
-                "stars": 899,
+                "stars": 900,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4759,7 +4759,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-23T10:13:05Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
                 "stars": 4577,
@@ -4783,7 +4783,7 @@
                 "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4119,
+                "stars": 4123,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4804,7 +4804,7 @@
                 "open_issues": 18,
                 "owner": "facebookresearch",
                 "repo": "eb_jepa",
-                "stars": 773,
+                "stars": 772,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -5028,7 +5028,7 @@
                 "open_issues": 52,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3738,
+                "stars": 3741,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -5711,7 +5711,7 @@
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2235,
+            "stars": 2238,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -5743,7 +5743,7 @@
             "open_issues": 0,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1998,
+            "stars": 2000,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -5783,7 +5783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:16:48.060Z",
+    "last_updated": "2026-09-06T20:20:48.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
@@ -5795,7 +5795,7 @@
       "open_issues": 1,
       "owner": "knightnemo",
       "repo": "Awesome-World-Models",
-      "stars": 3394,
+      "stars": 3398,
       "topics": [
         "awesome-list",
         "dynamical-systems",
