@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T16:15:55Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2274,
+            "stars": 2279,
             "topics": [
               "deep-learning",
               "jepa",
@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 863,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "simchowitzlabpublic",
             "repo": "nano-world-model",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "diffusion-forcing",
               "diffusion-models",
@@ -230,7 +230,7 @@
                 "open_issues": 5,
                 "owner": "NTUMARS",
                 "repo": "Awesome-World-Model-for-Robotics-Policy",
-                "stars": 863,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -356,11 +356,11 @@
             "id": 978649191,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T08:57:03Z",
+            "last_commit": "2026-10-26T11:48:19Z",
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2761,
+            "stars": 2778,
             "topics": [
               "genie",
               "interactive-video",
@@ -386,11 +386,11 @@
             "id": 978649191,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T08:57:03Z",
+            "last_commit": "2026-10-26T11:48:19Z",
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2761,
+            "stars": 2778,
             "topics": [
               "genie",
               "interactive-video",
@@ -420,7 +420,7 @@
             "open_issues": 0,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2504,
+            "stars": 2505,
             "topics": [
               "worldmodel"
             ]
@@ -470,10 +470,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T11:38:51Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 584,
+            "stars": 586,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -654,7 +654,7 @@
             "open_issues": 36,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanWorld-1.0",
-            "stars": 2956,
+            "stars": 2957,
             "topics": [
               "3d",
               "3d-generation",
@@ -691,7 +691,7 @@
             "open_issues": 7,
             "owner": "nv-tlabs",
             "repo": "omni-dreams",
-            "stars": 349,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -712,7 +712,7 @@
             "open_issues": 9,
             "owner": "cure-lab",
             "repo": "MagicDrive",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "autonomous-vehicles",
               "deep-learning",
@@ -765,7 +765,7 @@
             "open_issues": 10,
             "owner": "MIV-XJTU",
             "repo": "FSDrive",
-            "stars": 832,
+            "stars": 831,
             "topics": [
               "autonomous-driving",
               "cot",
@@ -792,7 +792,7 @@
             "open_issues": 14,
             "owner": "OpenDriveLab",
             "repo": "DriveAGI",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "autonomous-driving",
               "embodied-ai",
@@ -886,7 +886,7 @@
             "open_issues": 13,
             "owner": "wzzheng",
             "repo": "GenAD",
-            "stars": 497,
+            "stars": 498,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 13,
             "owner": "haomo-ai",
             "repo": "Cam4DOcc",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "3d-occupancy",
               "3d-occupancy-prediction",
@@ -1035,27 +1035,6 @@
               "occupancy-prediction",
               "surrounded-camera"
             ]
-          },
-          "first_seen": "2026-08-29T01:43:55.986Z"
-        },
-        {
-          "node_type": "item",
-          "title": "\"End-to-End Driving with Online Trajectory Evaluation via BEV World Model\".",
-          "description": "liyingyanUCAS/WoTE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "(ICCV2025) End-to-End Driving with Online Trajectory Evaluation via BEV World Model",
-            "homepage": null,
-            "id": 957745125,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-06-29T03:43:19Z",
-            "open_issues": 19,
-            "owner": "liyingyanUCAS",
-            "repo": "WoTE",
-            "stars": 275,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:43:55.986Z"
         },
@@ -1075,6 +1054,27 @@
             "open_issues": 14,
             "owner": "PeidongLi",
             "repo": "SSR",
+            "stars": 276,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:43:55.986Z"
+        },
+        {
+          "node_type": "item",
+          "title": "\"End-to-End Driving with Online Trajectory Evaluation via BEV World Model\".",
+          "description": "liyingyanUCAS/WoTE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "(ICCV2025) End-to-End Driving with Online Trajectory Evaluation via BEV World Model",
+            "homepage": null,
+            "id": 957745125,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-06-29T03:43:19Z",
+            "open_issues": 19,
+            "owner": "liyingyanUCAS",
+            "repo": "WoTE",
             "stars": 275,
             "topics": []
           },
@@ -1843,7 +1843,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2835,
+                "stars": 2840,
                 "topics": [
                   "infra",
                   "long",
@@ -1857,6 +1857,27 @@
                 ]
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fast-WAM: \"Fast-WAM: Do World Action Models Need Test-time Future Imagination?\".",
+              "description": "yuantianyuan01/FastWAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase for Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
+                "homepage": "https://yuantianyuan01.github.io/FastWAM/",
+                "id": 1184279068,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-20T06:49:41Z",
+                "open_issues": 44,
+                "owner": "yuantianyuan01",
+                "repo": "FastWAM",
+                "stars": 1618,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
             },
             {
               "node_type": "item",
@@ -1874,7 +1895,7 @@
                 "open_issues": 3,
                 "owner": "OpenWAM-Official",
                 "repo": "OpenWAM",
-                "stars": 1109,
+                "stars": 1113,
                 "topics": [
                   "generalist-robot-policies",
                   "pretraining",
@@ -1900,7 +1921,7 @@
                 "open_issues": 2,
                 "owner": "MinghaoFu",
                 "repo": "lewam",
-                "stars": 339,
+                "stars": 341,
                 "topics": [
                   "jepa",
                   "robot-learning",
@@ -1922,10 +1943,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T06:42:06Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "roboterax",
                 "repo": "video-prediction-policy-2",
-                "stars": 320,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-10-13T00:34:07.298Z"
@@ -1967,7 +1988,7 @@
                 "open_issues": 3,
                 "owner": "InternRobotics",
                 "repo": "InternW0-Delta",
-                "stars": 119,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-09-29T22:11:14.241Z"
@@ -2009,7 +2030,7 @@
                 "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "robo_jepa",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-10-13T00:34:07.298Z"
@@ -2078,10 +2099,52 @@
                 "open_issues": 1,
                 "owner": "XuejiFang",
                 "repo": "LeWAM",
-                "stars": 19,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-09-29T22:11:14.241Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Thinker-WM: \"Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence\".",
+              "description": "UBTECH-Robot/Thinker-WM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Thinker-Wm",
+                "homepage": null,
+                "id": 1394860158,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-16T06:19:28Z",
+                "open_issues": 0,
+                "owner": "UBTECH-Robot",
+                "repo": "Thinker-WM",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Faster-WAM: \"Faster-WAM: Do World Action Models Need Deep Action Modules?\".",
+              "description": "TeamFasterwam/FasterWAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1419224105,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-15T14:37:46Z",
+                "open_issues": 0,
+                "owner": "TeamFasterwam",
+                "repo": "FasterWAM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
             }
           ],
           "description": null,
@@ -2106,7 +2169,7 @@
                 "open_issues": 38,
                 "owner": "OpenDriveLab",
                 "repo": "AgiBot-World",
-                "stars": 3209,
+                "stars": 3211,
                 "topics": [
                   "pretraining-for-robotics",
                   "robotic-foundation-model",
@@ -2153,7 +2216,7 @@
                 "open_issues": 12,
                 "owner": "NVIDIA",
                 "repo": "GR00T-Dreams",
-                "stars": 622,
+                "stars": 625,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -2195,7 +2258,7 @@
                 "open_issues": 2,
                 "owner": "Jianghanxiao",
                 "repo": "PhysTwin",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -2612,7 +2675,7 @@
                 "open_issues": 1,
                 "owner": "TritiumR",
                 "repo": "Prompting-with-the-Future",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -2988,6 +3051,81 @@
             },
             {
               "node_type": "item",
+              "title": "Ropedia W0: \"Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience\".",
+              "description": "Ropedia/ropedia-w0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:28:10Z",
+                "open_issues": 1,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 110,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UNITAS: \"UNITAS: A 3D-Native World Action Model for Embodied Manipulation\".",
+              "description": "DexForce/UNITAS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase for Unitas: A 3D-Native World Action Model for Embodied Manipulation",
+                "homepage": "https://unitas-wam.github.io/",
+                "id": 1409774519,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-16T07:55:33Z",
+                "open_issues": 1,
+                "owner": "DexForce",
+                "repo": "UNITAS",
+                "stars": 101,
+                "topics": [
+                  "robot-learning",
+                  "robot-manipulation",
+                  "robotics",
+                  "vision-language-action-model",
+                  "world-action-models",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AW-0: \"Agentic World Action Models\".",
+              "description": "ZhuoyangLiu2005/agentic-wam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Repository of Agentic World Action Models",
+                "homepage": null,
+                "id": 1404011657,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-10-22T02:39:44Z",
+                "open_issues": 1,
+                "owner": "ZhuoyangLiu2005",
+                "repo": "agentic-wam",
+                "stars": 101,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
+            },
+            {
+              "node_type": "item",
               "title": "DreamX-Phi 1.0: \"DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation\".",
               "description": "AMAP-ML/DreamX-Phi",
               "children": [],
@@ -3166,7 +3304,7 @@
                 "open_issues": 1,
                 "owner": "HybridRobotics",
                 "repo": "Ego-VCP",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3262,7 +3400,7 @@
                 "open_issues": 345,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8257,
+                "stars": 8270,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3329,7 +3467,7 @@
                 "open_issues": 1,
                 "owner": "Zhangwenyao1",
                 "repo": "DreamVLA",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3461,10 +3599,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-09T16:02:38Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1951,
+                "stars": 1954,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3485,7 +3623,7 @@
                 "open_issues": 8,
                 "owner": "open-gigaai",
                 "repo": "giga-world-policy",
-                "stars": 1407,
+                "stars": 1408,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3506,7 +3644,7 @@
                 "open_issues": 9,
                 "owner": "amap-cvlab",
                 "repo": "ABot-Manipulation",
-                "stars": 715,
+                "stars": 718,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3839,7 +3977,7 @@
                     "open_issues": 68,
                     "owner": "NVIDIA",
                     "repo": "cosmos",
-                    "stars": 12143,
+                    "stars": 12165,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3860,7 +3998,7 @@
                     "open_issues": 98,
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
-                    "stars": 4811,
+                    "stars": 4814,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3881,7 +4019,7 @@
                     "open_issues": 98,
                     "owner": "facebookresearch",
                     "repo": "vjepa2",
-                    "stars": 4811,
+                    "stars": 4814,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3929,7 +4067,7 @@
                     "open_issues": 40,
                     "owner": "dreamzero0",
                     "repo": "dreamzero",
-                    "stars": 2730,
+                    "stars": 2736,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -3992,7 +4130,7 @@
                     "open_issues": 10,
                     "owner": "Robbyant",
                     "repo": "lingbot-world-v2",
-                    "stars": 1879,
+                    "stars": 1881,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4013,7 +4151,7 @@
                     "open_issues": 29,
                     "owner": "Tencent-Hunyuan",
                     "repo": "HY-WorldPlay",
-                    "stars": 1620,
+                    "stars": 1621,
                     "topics": [
                       "3d",
                       "hunyuan",
@@ -4105,7 +4243,7 @@
                     "open_issues": 3,
                     "owner": "Junchao-cs",
                     "repo": "SolarWM",
-                    "stars": 793,
+                    "stars": 796,
                     "topics": [
                       "acceleration",
                       "aigc",
@@ -4157,7 +4295,7 @@
                     "id": 1321166557,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T08:43:17Z",
+                    "last_commit": "2026-10-26T03:13:22Z",
                     "open_issues": 1,
                     "owner": "NoizAI",
                     "repo": "HelixWorld",
@@ -4184,7 +4322,7 @@
                     "id": 1369624742,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T10:46:46Z",
+                    "last_commit": "2026-10-26T12:05:39Z",
                     "open_issues": 4,
                     "owner": "TencentARC",
                     "repo": "WorldCrafter",
@@ -4208,11 +4346,11 @@
                     "id": 1218835372,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-24T23:52:52Z",
-                    "open_issues": 117,
+                    "last_commit": "2026-10-26T22:14:27Z",
+                    "open_issues": 120,
                     "owner": "NVIDIA",
                     "repo": "flashdreams",
-                    "stars": 526,
+                    "stars": 527,
                     "topics": [
                       "efficiency",
                       "interactive",
@@ -4290,7 +4428,7 @@
                     "open_issues": 53,
                     "owner": "lucas-maes",
                     "repo": "le-wm",
-                    "stars": 4567,
+                    "stars": 4569,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4311,10 +4449,31 @@
                     "open_issues": 65,
                     "owner": "facebookresearch",
                     "repo": "jepa",
-                    "stars": 4181,
+                    "stars": 4182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cosmos Transfer1: \"Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control\".",
+                  "description": "nvidia-cosmos/cosmos-transfer1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Cosmos-Transfer1 is a world-to-world transfer model designed to bridge the perceptual divide between simulated and real-world environments.",
+                    "homepage": "https://research.nvidia.com/labs/dir/cosmos-transfer1",
+                    "id": 941557915,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-15T21:30:46Z",
+                    "open_issues": 24,
+                    "owner": "nvidia-cosmos",
+                    "repo": "cosmos-transfer1",
+                    "stars": 829,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-26T22:36:18.744Z"
                 },
                 {
                   "node_type": "item",
@@ -4336,6 +4495,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:55.986Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "WorldGPT: \"WorldGPT: Empowering LLM as Multimodal World Model\".",
+                  "description": "ZJU4EmbodiedAI/WorldGPT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WorldGPT: Empowering LLM as Multimodal World Model",
+                    "homepage": null,
+                    "id": 788531230,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2024-08-06T08:08:15Z",
+                    "open_issues": 1,
+                    "owner": "ZJU4EmbodiedAI",
+                    "repo": "WorldGPT",
+                    "stars": 123,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-26T22:36:18.744Z"
                 }
               ],
               "description": "Genie Series:\nV-JEPA Series:\nCosmos Series:\nWorld-Lab Projects:\nOther Awesome Models:",
@@ -4404,10 +4584,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-12T03:31:30Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3553,
+                "stars": 3554,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4428,7 +4608,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2835,
+                "stars": 2840,
                 "topics": [
                   "infra",
                   "long",
@@ -4459,7 +4639,7 @@
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2225,
+                "stars": 2227,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -4528,7 +4708,7 @@
                 "open_issues": 46,
                 "owner": "tianweiy",
                 "repo": "CausVid",
-                "stars": 1448,
+                "stars": 1450,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -4870,7 +5050,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-20T11:52:07Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
                 "stars": 1033,
@@ -5144,11 +5324,11 @@
                 "id": 904606333,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-11-26T15:15:25Z",
+                "last_commit": "2026-10-26T22:27:01Z",
                 "open_issues": 2,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -5173,7 +5353,7 @@
                 "open_issues": 98,
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
-                "stars": 4811,
+                "stars": 4814,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -5194,7 +5374,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4181,
+                "stars": 4182,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -5236,7 +5416,7 @@
                 "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "jepa-intuitive-physics",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:55.986Z"
@@ -5411,13 +5591,39 @@
                 "open_issues": 0,
                 "owner": "Westlake-AGI-Lab",
                 "repo": "WorldinWorld",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "controllable-video-generation",
                   "world-model"
                 ]
               },
               "first_seen": "2026-09-15T21:15:52.571Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EVA (Executable Video Alignment): \"EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards\".",
+              "description": "RobbinW/EVA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of \"EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards\"",
+                "homepage": "https://eva-project-page.github.io/",
+                "id": 1185118980,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-13T18:14:20Z",
+                "open_issues": 2,
+                "owner": "RobbinW",
+                "repo": "EVA",
+                "stars": 64,
+                "topics": [
+                  "embodied-ai",
+                  "video-generation",
+                  "world-model",
+                  "world-model-rl"
+                ]
+              },
+              "first_seen": "2026-10-26T22:36:18.744Z"
             },
             {
               "node_type": "item",
@@ -5463,7 +5669,7 @@
                 "open_issues": 75,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3906,
+                "stars": 3910,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -6022,7 +6228,7 @@
             "id": 1246588489,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T10:31:05Z",
+            "last_commit": "2026-10-26T12:04:43Z",
             "open_issues": 2,
             "owner": "meituan-longcat",
             "repo": "WBench",
@@ -6188,7 +6394,7 @@
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2289,
+            "stars": 2291,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -6216,11 +6422,11 @@
             "id": 885743839,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T02:03:44Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-26T02:13:04Z",
+            "open_issues": 1,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2049,
+            "stars": 2050,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -6260,7 +6466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:45:29.544Z",
+    "last_updated": "2026-10-26T22:36:18.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
@@ -6268,11 +6474,11 @@
       "id": 1087207313,
       "language": null,
       "license": "BSD-3-Clause",
-      "last_commit": "2026-10-12T20:35:30Z",
+      "last_commit": "2026-10-26T12:47:00Z",
       "open_issues": 0,
       "owner": "knightnemo",
       "repo": "Awesome-World-Models",
-      "stars": 3498,
+      "stars": 3499,
       "topics": [
         "awesome-list",
         "dynamical-systems",
@@ -6281,7 +6487,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "60fbe9ae6150e0fce3a66b8608c47ea84f2468e3",
+    "original_repository_sha": "833f0a58911860289796186ed9bc1c6ee55cf8bd",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Models",
     "enhanced_repository_description": null,
     "title": "🌍 Awesome World Models with stars"
